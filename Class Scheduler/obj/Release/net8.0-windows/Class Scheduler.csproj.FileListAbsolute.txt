@@ -1,0 +1,22 @@
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\bin\Release\net8.0-windows\Class Scheduler.exe
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\bin\Release\net8.0-windows\Class Scheduler.deps.json
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\bin\Release\net8.0-windows\Class Scheduler.runtimeconfig.json
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\bin\Release\net8.0-windows\Class Scheduler.dll
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\bin\Release\net8.0-windows\Class Scheduler.pdb
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler_MarkupCompile.cache
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler_MarkupCompile.lref
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.g.resources
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.dll
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\refint\Class Scheduler.dll
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.pdb
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\ref\Class Scheduler.dll
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Jacob\source\repos\Class Scheduler\Class Scheduler\obj\Release\net8.0-windows\Class Scheduler.csproj.ResolveComReference.cache

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Class_Scheduler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Class_Scheduler"
+        mc:Ignorable="d"
+        Title="Class SCheduler" Height="574" Width="986" Background="#618264" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="384*"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Image Height="576" Margin="0,-18,0,0" VerticalAlignment="Top" Source="/images/4.png" HorizontalAlignment="Left" Width="1144" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="288" Margin="362,-18,0,0" VerticalAlignment="Top" Width="624" Source="/images/3.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="382" Margin="445,82,0,0" VerticalAlignment="Top" Width="432" Source="/images/2.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

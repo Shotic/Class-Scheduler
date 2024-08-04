@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|c:\\users\\jacob\\source\\repos\\class scheduler\\class scheduler\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|solutionrelative:class scheduler\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|c:\\users\\jacob\\source\\repos\\class scheduler\\class scheduler\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|solutionrelative:class scheduler\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|c:\\users\\jacob\\source\\repos\\class scheduler\\class scheduler\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|solutionrelative:class scheduler\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|c:\\users\\jacob\\source\\repos\\class scheduler\\class scheduler\\class scheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF989511-2F5D-4DF5-BA8F-02C9C63D1890}|Class Scheduler\\Class Scheduler.csproj|solutionrelative:class scheduler\\class scheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Class Scheduler\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\App.xaml.cs",
+              "RelativeToolTip": "Class Scheduler\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:22:04.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class Scheduler.csproj",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\Class Scheduler.csproj",
+              "RelativeDocumentMoniker": "Class Scheduler\\Class Scheduler.csproj",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\Class Scheduler.csproj",
+              "RelativeToolTip": "Class Scheduler\\Class Scheduler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T12:43:06.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Class Scheduler\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Class Scheduler\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:41:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Class Scheduler\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Class Scheduler\\Class Scheduler\\MainWindow.xaml",
+              "RelativeToolTip": "Class Scheduler\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T12:41:34.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
